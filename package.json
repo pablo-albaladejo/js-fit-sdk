@@ -1,0 +1,16 @@
+{
+  "name": "js-fit-sdk",
+  "version": "0.0.1",
+  "description": "javascript FitSDK implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "fit",
+    "sdk"
+  ],
+  "author": "Pablo Albaladejo Mestre",
+  "license": "MIT"
+}
